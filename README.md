@@ -1,0 +1,2 @@
+# Terning_v2
+DETTE ER THE BUGFIX BRAANCH!
