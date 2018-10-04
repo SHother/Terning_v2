@@ -1,4 +1,5 @@
 package terning;
+// Bund den kylling
 
 public class Dice {
 	// roll the die and return the value (1-6)
@@ -8,7 +9,7 @@ public class Dice {
 		int d3=Math.round(d2);             // 0-5 integer
 		return d3 + 1;                     // 1-6		
 	}
-	
+	// Dette er min, Jonatans kommentar.
 	// roll the die n times and print the values
 	public void rollMultiple(int n) {
 		for (int i=1; i<n; i++) {
